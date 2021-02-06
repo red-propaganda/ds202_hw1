@@ -1,0 +1,17 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Vismay Gehlot and my github user is Vgehlot1999.
+
+In the most recent commit, the owner made their initial commit where they added their hw1 RMD and html file ot the repository. The commit ID for this was faa2270.
+
+I was unable to knit my partner's Rmd file because I do not have the .jpg file that they used in their page.
+
+One difficulty that I encountered was that someone had logged into their github on my laptop previously to do their homework, so my initial commits came under their name. Because of this, I had to delete the files, folders, and the repository and do it again from scratch under my username so as to not cause a fatal error.
+
